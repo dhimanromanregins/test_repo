@@ -1,0 +1,14 @@
+source,target,value
+Organic Search,MQL,5000
+Paid Search,MQL,4000
+Content Marketing,MQL,3000
+Social Media,MQL,3500
+Direct,MQL,4500
+Email Marketing,MQL,3200
+Referrals,MQL,2800
+MQL,SQL,6000
+MQL,Unqualified,2500
+SQL,Opportunity,1800
+SQL,No Opportunity,2000
+SQL,Lost,1500
+SQL,Won,700
